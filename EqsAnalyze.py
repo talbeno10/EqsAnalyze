@@ -24,7 +24,7 @@ delay = 300 # 5 Minutes
 #### Main
 
 ### API
-startDate = "2014-01-01"
+#startDate = "2014-01-01"
 endDate = "2014-02-01"
 
 ### Crawling
@@ -32,7 +32,7 @@ tables_wiki = pd.read_html("https://en.wikipedia.org/wiki/Lists_of_20th-century_
 #asession = AsyncHTMLSession()
 #r = await asession.get('https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-data?maxYear=2020&minYear=2000')
 #tables_noaa = driver.get("https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-data?maxYear=2020&minYear=2000")
-#bs = BeautifulSoup(tables_noaa.content, "html.parser")
+bs = BeautifulSoup(tables_noaa.content, "html.parser")
 
 df = pd.DataFrame()
 
