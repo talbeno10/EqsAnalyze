@@ -1,7 +1,7 @@
 # EqsAnalyze
 
 ## Main Purpose
-Earthquakes data analyzation through the years, deductive reasoning and parameters prediction using ML
+Earthquakes data analyzation through the years, deductive reasoning and parameters prediction using ML\n
 You will find addition information in the project presentation
 
 ## Acquisition
