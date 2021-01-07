@@ -10,6 +10,7 @@ Gathering information using API & Crawling
 * Wikipedia
 * German Research Centre for Geosciences
 * United States Geological Survey
+
 Concat all information to one database
 
 ## Exploratory Data Analysis
