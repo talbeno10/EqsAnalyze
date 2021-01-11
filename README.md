@@ -13,7 +13,7 @@ Gathering information using API & Crawling
 
 Concat all information to one database
 
-## Exploratory Data Analysis
+## Data Cleaning
 Exploring & improving the data
 * Format normalization
 * Duplicates & nulls handling
